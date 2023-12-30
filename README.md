@@ -12,6 +12,6 @@ Amend the following settings:
 How to use this script:
 1. open in MacOS Script Editor
 1. Amend Application Name and Interface Name
-1. Save Script as Application ( File -> Save -> File Format: "Application")
-1. Add application to your MacOS user account's login items ("Open at login" via MacOS System Settings; run application as type "Application")
+1. Save Script as Application ( `File` -> `Save` -> `File Format`: `Application`)
+1. Add application to your MacOS user account's login items (`Open at login` via MacOS System Settings; run application as type `Application`)
 1. Reboot
